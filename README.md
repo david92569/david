@@ -1,4 +1,6 @@
-# import java.util.*;
+# code
+
+import java.util.*;
 public class Door {
 
    private boolean open;
