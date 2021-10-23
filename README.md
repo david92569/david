@@ -1,10 +1,11 @@
 # code
 
 import java.util.*;
-public class Door {
 
+   public class Door {
+   
    private boolean open;
-
+   
    public Door() {
      open=accessgranted;
    
